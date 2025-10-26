@@ -1,0 +1,106 @@
+{
+  "index": {
+    "title": "Reseer J | Home",
+    "description": "This is my place in the digital world. Here I share my opinions, thoughts, and experiences in my life aspect that I feel just want to share it.",
+    "keywords": "Resteer John L. Lumbab, Personal Blog, Stories, Knowledge, Experiences",
+    "author": "Resteer John L. Lumbab",
+    "canonical": "https://reseer.life/",
+    "og_image": "/assets/images/preview.webp",
+    "theme_color": "#0d0d0d"
+  },
+  "blogs": {
+    "title": "Reseer J | Blogs",
+    "description": "My travel journals and stories across places that shaped my perspective and creativity.",
+    "keywords": "travel, culture, adventure, reseer life",
+    "author": "Resteer John L. Lumbab",
+    "canonical": "https://reseer.life/travel",
+    "og_image": "/assets/images/preview.webp",
+    "theme_color": "#0d0d0d"
+  },
+  "contact": {
+    "title": "Reseer J | Contact",
+    "description": "Thoughts, reflections, and ideas shared through my personal blog.",
+    "keywords": "Reseer J, philosophy, writing, personal reflections",
+    "author": "Resteer John L. Lumbab",
+    "canonical": "https://reseer.life/blog",
+    "og_image": "./assets/images/preview.webp",
+    "theme_color": "#0d0d0d"
+  },
+  "about": {
+    "title": "Reseer J | About ",
+    "description": "Your Privacy Matters",
+    "keywords": "Privacy policy",
+    "author": "Resteer John L. Lumbab",
+    "canonical": "/site-policies/privacy-policy.php",
+    "image": "",
+    "theme_color": "#0d0d0d",
+    "language": "English",
+    "robots": "index, follow"
+  },
+  "support": {
+    "title": "Reseer J | Support",
+    "description": "Your Privacy Matters",
+    "keywords": "Privacy policy",
+    "author": "Resteer John L. Lumbab",
+    "canonical": "/site-policies/privacy-policy.php",
+    "image": "",
+    "theme_color": "#0d0d0d",
+    "language": "English",
+    "robots": "index, follow"
+  },
+  "privacy-policy": {
+    "title": "Reseer J | Privacy Policy",
+    "description": "Your Privacy Matters",
+    "keywords": "Privacy policy",
+    "author": "Resteer John L. Lumbab",
+    "canonical": "/site-policies/privacy-policy.php",
+    "image": "",
+    "theme_color": "#0d0d0d",
+    "language": "English",
+    "robots": "index, follow"
+  },
+  "terms-and-conditions": {
+    "title": "Reseer J | Terms And Conditions",
+    "description": "Your Privacy Matters",
+    "keywords": "Privacy policy",
+    "author": "Resteer John L. Lumbab",
+    "canonical": "/site-policies/privacy-policy.php",
+    "image": "",
+    "theme_color": "#0d0d0d",
+    "language": "English",
+    "robots": "index, follow"
+  },
+  "cookie-policy": {
+    "title": "Reseer J | Cookie Policy",
+    "description": "Your Privacy Matters",
+    "keywords": "Privacy policy",
+    "author": "Resteer John L. Lumbab",
+    "canonical": "/site-policies/privacy-policy.php",
+    "image": "",
+    "theme_color": "#0d0d0d",
+    "language": "English",
+    "robots": "index, follow"
+  },
+  "disclaimer": {
+    "title": "Reseer J | Disclaimer",
+    "description": "Your Privacy Matters",
+    "keywords": "Privacy policy",
+    "author": "Resteer John L. Lumbab",
+    "canonical": "/site-policies/privacy-policy.php",
+    "image": "",
+    "theme_color": "#0d0d0d",
+    "language": "English",
+    "robots": "index, follow"
+  },
+  "dmca": {
+    "title": "Reseer J | DMCA Policy",
+    "description": "Your Privacy Matters",
+    "keywords": "Privacy policy",
+    "author": "Resteer John L. Lumbab",
+    "canonical": "/site-policies/privacy-policy.php",
+    "image": "",
+    "theme_color": "#0d0d0d",
+    "language": "English",
+    "robots": "index, follow"
+  }
+}

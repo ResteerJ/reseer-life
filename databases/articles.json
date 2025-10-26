@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "title": "Comming Soon",
+      "date": "23 Dec 2020",
+      "read_time": "3 Min read",
+      "image": "/assets/images/preview.webp",
+      "url": "#",
+      "description": "Comming Soon",
+      "categories": ["older", "literature"]
+    },
+    {
+      "title": "Comming Soon",
+      "date": "12 Jan 2022",
+      "read_time": "5 Min read",
+      "image": "/assets/images/preview.webp",
+      "url": "#",
+      "description": "Comming Soon",
+      "categories": ["older", "tech", "trending"]
+    },
+    {
+      "title": "Comming Soon",
+      "date": "05 Feb 2022",
+      "read_time": "2 Min read",
+      "image": "/assets/images/preview.webp",
+      "url": "#",
+      "description": "Comming Soon",
+      "categories": ["trending", "archive"]
+    },
+    {
+      "title": "Comming Soon",
+      "date": "14 Mar 2022",
+      "read_time": "4 Min read",
+      "image": "/assets/images/preview.webp",
+      "url": "#",
+      "description": "Comming Soon",
+      "categories": ["older", "philosophy"]
+    }
+  ]
+}
