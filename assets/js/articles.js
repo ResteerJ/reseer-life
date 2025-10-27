@@ -4,7 +4,7 @@
 // Author: Resteer John L. Lumbab
 // ======================================================
 
-fetch('./databases/articles.json')
+fetch('/databases/articles.json')
   .then(response => response.json())
   .then(data => {
     const articles = data.articles;
@@ -164,7 +164,37 @@ fetch('./databases/articles.json')
 
     // 🧳 Travel Page Example
     renderCategory("travel", "travel-container", {
-      template: "default",
+      template: "older",
+      random: true,
+      limit: 6
+    });
+
+    renderCategory("food", "food-container", {
+      template: "older",
+      random: true,
+      limit: 6
+    });
+
+    renderCategory("technology", "tech-container", {
+      template: "older",
+      random: true,
+      limit: 6
+    });
+
+    renderCategory("health", "health-container", {
+      template: "older",
+      random: true,
+      limit: 6
+    });
+
+    renderCategory("nature", "nature-container", {
+      template: "older",
+      random: true,
+      limit: 6
+    });
+
+    renderCategory("fitness", "fitness-container", {
+      template: "older",
       random: true,
       limit: 6
     });

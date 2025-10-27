@@ -7,7 +7,7 @@
       "image": "/assets/images/preview.webp",
       "url": "#",
       "description": "Comming Soon",
-      "categories": ["older", "literature"]
+      "categories": ["older", "literature", "travel"]
     },
     {
       "title": "Comming Soon",
@@ -16,7 +16,7 @@
       "image": "/assets/images/preview.webp",
       "url": "#",
       "description": "Comming Soon",
-      "categories": ["older", "tech", "trending"]
+      "categories": ["older", "tech", "trending" , "travel"]
     },
     {
       "title": "Comming Soon",
@@ -25,7 +25,7 @@
       "image": "/assets/images/preview.webp",
       "url": "#",
       "description": "Comming Soon",
-      "categories": ["trending", "archive"]
+      "categories": ["trending", "archive" , "travel"]
     },
     {
       "title": "Comming Soon",

@@ -23,17 +23,18 @@
                     this site,
                     you can contact me directly by email.
                 </p>
-
+</br>
                 <p>
                     <strong>Important:</strong> I do not use any contact forms on this website.
                     As stated in my Privacy Policy, I prefer direct email communication to protect your privacy.
                     This means no personal data is collected or stored on this site — your message stays completely
                     between us.
                 </p>
-
+</br>
                 <p>
                     <a href="mailto:connect@reseer.life?subject=Hello%20Resteer">📧 Send me an email</a>
                 </p>
+</br>
 
                 <p>
                     If the button above doesn’t work, you can manually send your message to:

@@ -118,7 +118,7 @@ if ($debug) {
 
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon.jpg">
 
     <!-- Stylesheets -->
     <link href="/assets/css/remixicon.css" rel="stylesheet">

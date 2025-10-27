@@ -6,21 +6,22 @@
                 <a href="/">
                     <h2 class="logo">Reseer J</h2>
                 </a>
-                <p class="company-description">The War With The Minds And Pursuit Of Discipline. I'm tired And Sick of Being Tired And Sick. Building My Life And Pursuit of Living Above Average.</p>
+                <p class="company-description">The War With The Minds And Pursuit Of Discipline. I'm tired And Sick of Being Tired And Sick. Building My Life And Pursuit of Living Above Average.(Note: By Clicking The Social Icons Below, you will be directed to its specidic social media platform.)</p>
 
                 <ul class="list social-media">
                     <li class="list-item">
-                        <a href="#" class="list-link"><i class="ri-instagram-line"></i></a>
+                        <a href="https://www.instagram.com/resteerj/" class="list-link"><i class="ri-instagram-line"></i></a>
                     </li>
                     <li class="list-item">
-                        <a href="#" class="list-link"><i class="ri-facebook-circle-line"></i></a>
+                        <a href="https://www.facebook.com/reseerj" class="list-link"><i class="ri-facebook-circle-line"></i></a>
                     </li>
                     <li class="list-item">
-                        <a href="#" class="list-link"><i class="ri-twitter-line"></i></a>
+                        <a href="https://x.com/reseerj" class="list-link"><i class="ri-twitter-line"></i></a>
                     </li>
                     <li class="list-item">
-                        <a href="#" class="list-link"><i class="ri-pinterest-line"></i></a>
+                        <a href="https://www.youtube.com/@ReseerJ" class="list-link"><i class="ri-youtube-line"></i></a>
                     </li>
+                    
                 </ul>
 
                 <span class="copyright-notice">&copy;2021 Reseer J. All rights reserved.</span>
@@ -31,22 +32,22 @@
 
                 <ul class="footer-list list">
                     <li class="list-item">
-                        <a href="#" class="list-link">Travel</a>
+                        <a href="/category/travel.php?page=travel" class="list-link">Travel</a>
                     </li>
                     <li class="list-item">
-                        <a href="#" class="list-link">Food</a>
+                        <a href="/category/food.php?page=food" class="list-link">Food</a>
                     </li>
                     <li class="list-item">
-                        <a href="#" class="list-link">Technology</a>
+                        <a href="/category/technology.php?page=technology" class="list-link">Technology</a>
                     </li>
                     <li class="list-item">
-                        <a href="#" class="list-link">Health</a>
+                        <a href="/category/health.php?page=health" class="list-link">Health</a>
                     </li>
                     <li class="list-item">
-                        <a href="#" class="list-link">Nature</a>
+                        <a href="/category/nature.php?page=nature" class="list-link">Nature</a>
                     </li>
                     <li class="list-item">
-                        <a href="#" class="list-link">Fitness</a>
+                        <a href="/category/fitness.php?page=fitness" class="list-link">Fitness</a>
                     </li>
                 </ul>
 
